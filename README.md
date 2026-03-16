@@ -38,6 +38,10 @@ Changes:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;open-collector encoders, but standard models (AMS, CUI, MT6835, MT6701) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;work flawlessly.<br>
 
+<ins>**ToDo**</ins> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current-sense gain requires a surprisingly high value to match real-world<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;measurements. ->>> Investigating the root cause.<br>
+
 
 ![Foto_01](https://github.com/user-attachments/assets/0ad33dcc-aa48-44b1-9cc7-0b2ab5c7eb7e)
 ![Foto_02](https://github.com/user-attachments/assets/98a73401-9cae-444a-8e1e-43856cfd17ce)
