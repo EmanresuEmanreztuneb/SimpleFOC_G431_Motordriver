@@ -38,7 +38,22 @@ Changes:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;open-collector encoders, but standard models (AMS, CUI, MT6835, MT6701) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;work flawlessly.<br>
   
-
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ca9da4b3-e695-4b18-b4db-ec845bc359db" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/2ee404e6-8fd0-4e47-88c2-2bfdc955ea86" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cbed8062-d662-4364-9117-29988a7078f0" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/3791d255-0a51-4ad1-80ab-17ff75fe2db6" width="300"></td>
+  </tr>
+  <tr>
+    <!-- colspan="2" verbindet die zwei Spalten, align="center" zentriert das Bild darin -->
+    <td colspan="2" align="center">
+      <img src="https://github.com/user-attachments/assets/5d2a891e-07f7-475e-bd6a-754b491a98a8" width="300">
+    </td>
+  </tr>
+</table>
   
 
       
