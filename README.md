@@ -30,12 +30,13 @@ Changes:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and adjusting the VCC sense resistors.<br>
 
 <ins>**BOOT / Encoder**</ins> <br>
-  ->> The BOOT pin is used as Encoder Z, with pull-UP and an additional capacitor.
-      This could lead to problems at startup, since the charging time of the capacitor is, what holds PB8 low.
-      On the new design, all encoder inputs are pull-DOWN without capacitors.
-      This eliminates the use of open collector encoders. But thos are pretty rare Anyway.
-      Typical encoders like AMS, CUI, MT6835, 6701 and so on work flawless.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the previous version, the BOOT pin (PB8) was used for Encoder Z with a<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pull-up and capacitor. This could cause startup issues, as the system <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;relies on the capacitor's charging time to keep PB8 low during boot.<br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The new design uses pull-downs without capacitors. This drops support for <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;open-collector encoders, but standard models (AMS, CUI, MT6835, MT6701) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;work flawlessly.<br>
   
 
   
