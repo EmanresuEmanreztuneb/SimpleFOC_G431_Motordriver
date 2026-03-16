@@ -7,6 +7,7 @@ Now the whole "layer sandwich" is gone and every existing layer can breath fresh
 Changes:
 
 - Two layer
+  
   ->> The KiCAD file has 2 "blind" layers between top and bottom to test if the additional shielding makes any difference.
       It does not.
       Thos layers can be removed, if you wona make the PCB at home. For JLC price stays almost the same.
